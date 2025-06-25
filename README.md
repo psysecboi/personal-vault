@@ -11,7 +11,7 @@ A secure digital vault for storing personal documents, passwords, and sensitive 
 - 🚀 Express.js Backend
 
 ## Tech Stack
-    
+
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JWT + bcrypt
@@ -19,7 +19,7 @@ A secure digital vault for storing personal documents, passwords, and sensitive 
 
 ## Getting Started -->
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/personal-vault.git
+git clone https://github.com/psysecboi/personal-vault
 
 # Install dependencies
 cd personal-vault/backend
