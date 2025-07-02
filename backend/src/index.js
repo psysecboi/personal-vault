@@ -3,10 +3,10 @@ import cors from 'cors';
 import helmet from 'helmet';
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
-import User from './models/User.js';
-import authRoutes from './routes/auth.js';
-import auth from './middleware/auth.js';
-import vaultRoutes from './routes/vault.js';
+import User from '../Models/User.js';
+import authRoutes from '../routes/auth.js';
+import auth from '../middleware/auth.js';
+import vaultRoutes from '../routes/vault.js';
 
 dotenv.config();
 
